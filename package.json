@@ -1,18 +1,18 @@
 {
-  "name": "luffymoongodb",
+  "name": "tcmoongodb",
   "version": "1.0.5",
   "description": "A library to connect moongodb",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "luffy",
+  "author": "tc",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nghianv/luffymoongodb"
+    "url": "git+https://github.com/trieucuong/tcmoongodb"
   },
-	"homepage": "https://twitter.com/2602Blackcat",
+	"homepage": "https://twitter.com/kiantri1",
   "dependencies": {
     "@types/mongoose": "^4.7.23",
     "@types/node": "^8.0.34",
