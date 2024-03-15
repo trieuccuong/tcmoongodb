@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trieucuong/tcmoongodb"
+    "url": "https://github.com/trieuccuong/tcmoongodb"
   },
 	"homepage": "https://twitter.com/kiantri1",
   "dependencies": {

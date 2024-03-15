@@ -1,12 +1,12 @@
 {
-  "name": "luffymoongodb",
+  "name": "tcmoongodb",
   "version": "1.0.5",
   "description": "A library to connect moongodb",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "luffy",
+  "author": "tc",
   "license": "ISC",
   "dependencies": {
     "@types/mongoose": "^4.7.23",
